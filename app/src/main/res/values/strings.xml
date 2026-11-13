@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">North Star</string>
+    <string name="tagline">The line that\'s always open.</string>
+    <string name="sos">SOS</string>
+    <string name="hint_name">Your name (sent with the alert)</string>
+    <string name="hint_number">Panic line number</string>
+    <string name="voice_toggle">Voice trigger — say \"North Star, help me\" (beta)</string>
+    <string name="save_arm">Save &amp; Arm</string>
+    <string name="tile_label">North Star SOS</string>
+    <string name="disclaimer">North Star alerts your own emergency contacts with your location — it is NOT a replacement for 911. If you can call 911, do.</string>
+</resources>
